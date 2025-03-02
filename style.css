@@ -55,6 +55,17 @@ h1 {
     display: block;
     font-size: 3rem;
     margin-bottom: 20px;
-    border-radius: 50%;
+    border-radius: 70%;
+  }
+  #resultDisplay {
+    font-size: 3rem;
+    margin: 30px 0;
+  }
+  #playerDisplay,
+  #computerDisplay {
+    font-size: 2rem;
+  }
+  h1 {
+    font-size: 2rem;
   }
 }
